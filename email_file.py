@@ -5,9 +5,9 @@ from email.mime.base import MIMEBase
 from email import encoders
 
 
-sender_email = "mangaimangai17121983@gmail.com"
-receiver_email = "rayeesaiffath@gmail.com"
-app_password = "kcyy hgfd yavk avrr"
+sender_email = "example123@gmail.com"
+receiver_email = "receiver@gmail.com"
+app_password = "your password"
 
 
 msg = MIMEMultipart()
