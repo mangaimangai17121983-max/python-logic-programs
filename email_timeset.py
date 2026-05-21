@@ -4,9 +4,9 @@ from email.mime.text import MIMEText
 
 current_time = time.strftime("%H:%M:%S")
 
-sender_email = "mangaimangai17121983@gmail.com"
-receiver_email = "rayeesaiffath@gmail.com"
-app_password = "kcyy hgfd yavk avrr"
+sender_email = "example123@gmail.com"
+receiver_email = "receiver@gmail.com"
+app_password = "your password"
 
 subject = "Current Time"
 body = "Current Time is: " + current_time
