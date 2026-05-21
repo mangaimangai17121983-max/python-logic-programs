@@ -1,0 +1,3 @@
+n=input("Enter the name:")
+rev=n[::-1]
+print("reversed name:",rev)

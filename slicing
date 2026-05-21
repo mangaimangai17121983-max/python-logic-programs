@@ -1,0 +1,3 @@
+text=input("Enter a text:")
+print("First 5 letter:",text[0:5])
+print("last 5 letter:",text[5:])
